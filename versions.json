@@ -1,0 +1,105 @@
+{
+    "latest": "Pre-Alpha 0.1.6",
+    "versions": [
+        {
+            "id": "Pre-Alpha 0.0.1",
+            "releaseTime": "March 8, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.1.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.2",
+            "releaseTime": "March 8, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.2.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.3",
+            "releaseTime": "March 8, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.3.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.4",
+            "releaseTime": "March 8, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.4.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.5",
+            "releaseTime": "March 8, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.5.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.6",
+            "releaseTime": "March 8, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.6.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.7",
+            "releaseTime": "March 9, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.7.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.8",
+            "releaseTime": "March 9, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.8.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.9",
+            "releaseTime": "March 9, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.9.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.10",
+            "releaseTime": "March 9, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.10.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.12",
+            "releaseTime": "March 9, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.12.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.13",
+            "releaseTime": "March 9, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.13.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.0.14",
+            "releaseTime": "March 9, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.0.14.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.1.0",
+            "releaseTime": "March 9, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.0.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.1.1",
+            "releaseTime": "March 10, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.1.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.1.2",
+            "releaseTime": "March 11, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.2.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.1.3",
+            "releaseTime": "March 12, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.3.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.1.4",
+            "releaseTime": "March 13, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.4.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.1.5",
+            "releaseTime": "March 14, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.5.jar"
+        },
+        {
+            "id": "Pre-Alpha 0.1.6",
+            "releaseTime": "March 14, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.6.jar"
+        }
+    ]
+}
