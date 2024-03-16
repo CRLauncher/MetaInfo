@@ -135,11 +135,39 @@
             "size": 21414853
         },
         {
+            "id": "Pre-Alpha 0.1.5b",
+            "releaseTime": "March 14, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.5b.jar",
+            "hash": "749ce6d151fd27de28afd9205310845",
+            "size": 21417008
+        },
+        {
+            "id": "Pre-Alpha 0.1.5c",
+            "releaseTime": "March 14, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.5c.jar",
+            "hash": "443fe3461018753069dfdae26964dc",
+            "size": 21416728
+        },
+        {
+            "id": "Pre-Alpha 0.1.5d",
+            "releaseTime": "March 16, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.5d.jar",
+            "hash": "203a6f9ca98643b9dfb9518956d2f260",
+            "size": 21416700
+        },
+        {
             "id": "Pre-Alpha 0.1.6",
             "releaseTime": "March 14, 2024",
             "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.6.jar",
             "hash": "fb1a462528c01c36c8b923b355aed",
             "size": 21421678
+        },
+        {
+            "id": "Pre-Alpha 0.1.6b",
+            "releaseTime": "March 15, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.6b.jar",
+            "hash": "4468146e9afa33fc939e2da51183c4b7",
+            "size": 21423072
         }
     ]
 }
