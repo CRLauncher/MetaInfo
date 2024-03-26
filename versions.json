@@ -2,6 +2,14 @@
     "latest": "0.1.13",
     "versions": [
         {
+            "id": "0.1.13b",
+            "type": "pre_alpha",
+            "releaseTime": "March 24, 2024",
+            "url": "https://archive.org/download/cosmic-reach/versions/Cosmic%20Reach-0.1.13b.jar",
+            "hash": "7ebc48669906df551b299d7068d8fe4e",
+            "size": 23670195
+        },
+        {
             "id": "0.1.13",
             "type": "pre_alpha",
             "releaseTime": "March 24, 2024",
